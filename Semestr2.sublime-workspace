@@ -1,0 +1,892 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tEl",
+				"tEl1"
+			],
+			[
+				"beg",
+				"begin	compound statement"
+			],
+			[
+				"b",
+				"begin	compound statement"
+			],
+			[
+				"num",
+				"numOfComparisons"
+			],
+			[
+				"date",
+				"dateComparison"
+			],
+			[
+				"daY",
+				"dateYMD"
+			],
+			[
+				"OR",
+				"OR"
+			],
+			[
+				"q",
+				"q"
+			],
+			[
+				"begin",
+				"Begin"
+			],
+			[
+				"write",
+				"Writeln"
+			],
+			[
+				"test",
+				"testFile"
+			],
+			[
+				"read",
+				"readln"
+			],
+			[
+				"end",
+				"End"
+			],
+			[
+				"un",
+				"unrefinedFile"
+			],
+			[
+				"ex_",
+				"ex_1"
+			],
+			[
+				"ex",
+				"expresNum"
+			],
+			[
+				"in",
+				"inc"
+			],
+			[
+				"st",
+				"stroka"
+			],
+			[
+				"sim",
+				"simplification"
+			],
+			[
+				"re",
+				"re"
+			],
+			[
+				"inte",
+				"Integer"
+			],
+			[
+				"mSizeV",
+				"mSizeVariable"
+			],
+			[
+				"mS",
+				"mSizeVariable"
+			],
+			[
+				"matr",
+				"matrixSize"
+			],
+			[
+				"mat",
+				"matrixToModify"
+			],
+			[
+				"matri",
+				"matrixToModify"
+			],
+			[
+				"m",
+				"mSize"
+			],
+			[
+				"set",
+				"setMatrix"
+			],
+			[
+				"min",
+				"minPosition"
+			],
+			[
+				"sym",
+				"symbolsType"
+			],
+			[
+				"Write",
+				"Writeln"
+			],
+			[
+				"Writ",
+				"Writeln"
+			],
+			[
+				"str",
+				"str"
+			],
+			[
+				"len",
+				"Length"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"conta",
+				"contacts"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"conl",
+				"contactsLenght"
+			],
+			[
+				"p",
+				"phoneNumber"
+			],
+			[
+				"col-",
+				"col-md-8"
+			],
+			[
+				"car",
+				"carousel-control"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"fon",
+				"font-family"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Неделя 1-2-3 Сортировка/testFile.txt",
+			"settings":
+			{
+				"buffer_size": 69,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Неделя 1-2-3 Сортировка/sort.pas",
+			"settings":
+			{
+				"buffer_size": 6785,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Неделя 1-2-3 Сортировка/todo.todo",
+			"settings":
+			{
+				"buffer_size": 170,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"goto",
+				"SublimeBookmarks: Goto Bookmark"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"BLOCK",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"pascal",
+				"Set Syntax: Pascal"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"comm",
+				"Toggle Block Comment"
+			],
+			[
+				"BLOC",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"pas",
+				"Set Syntax: Pascal"
+			],
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"LOWER",
+				"Convert Case: Lower Case"
+			],
+			[
+				"pasca",
+				"Set Syntax: Pascal"
+			],
+			[
+				"jsc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"js",
+				"JSHint"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"brs",
+				"SFTP: Browse Server…"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"sf",
+				"SFTP: Edit Server…"
+			],
+			[
+				"sft",
+				"SFTP: Edit Server…"
+			],
+			[
+				"s",
+				"SFTP: Edit Server…"
+			],
+			[
+				"sftp ",
+				"SFTP: Browse Server…"
+			],
+			[
+				"block",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"bloc",
+				"Toggle Block Comment"
+			],
+			[
+				"edit",
+				"SFTP: Edit Server…"
+			]
+		],
+		"width": 456.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Semestr2.sublime-project",
+		"/C/Users/German/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/German/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/D/prj/frontend-html-test/README.md",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Неделя 1-2-3 Сортировка/sort.pas",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Неделя 1-2-3 Сортировка/dates.txt",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Неделя 1-2-3 Сортировка/testFile.txt",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Неделя 1-2-3 Сортировка/testDates.txt",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/dates.txt",
+		"/D/Учёба/ВМК/Алгоритмы/Неделя 09 и 10/Control_2.pas",
+		"/D/Учёба/ВМК/Алгоритмы/Неделя 09 и 10/week9_10.sublime-project",
+		"/C/Users/German/SkyDrive/Frontier/2015.02.16/ru.strings",
+		"/D/Учёба/ВМК/Алгоритмы/Неделя 09 и 10/Control_1.pas",
+		"/D/Учёба/ВМК/Алгоритмы/Неделя 06/Kontrol.pas",
+		"/D/Учёба/ВМК/Алгоритмы/Неделя 15/15.pas",
+		"/C/Users/German/Downloads/ru.strings",
+		"/C/Users/German/SkyDrive/Дела/Боккаччо/Website/robots.txt",
+		"/D/Учёба/ВМК/Алгоритмы/Неделя 9 и 10/Control_2.pas",
+		"/D/Учёба/ВМК/Алгоритмы/Неделя 9 и 10/11_d.pas",
+		"/D/Учёба/ВМК/Алгоритмы/Неделя 9 и 10/11_c.pas",
+		"/D/Учёба/ВМК/Алгоритмы/Неделя 9 и 10/Control_1.pas",
+		"/D/Учёба/ВМК/Алгоритмы/Неделя 9 и 10/11_b.pas",
+		"/D/Учёба/ВМК/Алгоритмы/Неделя 9 и 10/11_a.pas",
+		"/D/Учёба/ВМК/Алгоритмы/Неделя 9 и 10/numToStroke.pas",
+		"/D/Учёба/ВМК/Алгоритмы/Неделя 9 и 10/lineModifier2.pas",
+		"/D/Учёба/ВМК/Алгоритмы/Неделя 8/massiveMultiplication.pas",
+		"/D/Учёба/ВМК/Алгоритмы/Неделя 9 и 10/power.pas",
+		"/D/Учёба/ВМК/Алгоритмы/Неделя 9 и 10/simpleFraction.pas",
+		"/D/Учёба/ВМК/Алгоритмы/Неделя 9 и 10/week9_10.sublime-project",
+		"/D/Учёба/ВМК/Алгоритмы/Неделя 9 и 10/heyApple.pas",
+		"/C/Users/German/Downloads/11.c.pas",
+		"/C/Users/German/Downloads/11_c.pas",
+		"/D/Учёба/ВМК/Алгоритмы/Неделя 9 и 10/minDiagonal.pas",
+		"/D/Учёба/ВМК/Алгоритмы/Неделя 8/lineModifier.pas",
+		"/D/Учёба/ВМК/Алгоритмы/Неделя 8/week8.sublime-project",
+		"/D/Музыка/Гражданин Топинамбур/readme_ru.txt",
+		"/D/Учёба/ВМК/Алгоритмы/Неделя 7/Решение Саши/9_2.pas",
+		"/C/Users/German/Desktop/123.txt",
+		"/D/Книги/Введение в язык Pascal_Абрамов/1_2011/furyjydy.dll",
+		"/C/Users/German/AppData/Local/Temp/txt11A0.txt",
+		"/C/Users/German/SkyDrive/Frontier/2014.10.09/new.txt",
+		"/C/Users/German/SkyDrive/Frontier/2014.10.09/ru.strings",
+		"/C/Users/German/Downloads/Goulston_M._Ya_Slyishu_Vas_Naskvoz_Ye.txt",
+		"/D/Program Files/Dropbox/вмк вво 2014-2017/Чат))).txt",
+		"/D/Program Files/Dropbox/вмк вво 2014-2017/1-й Семестр/Теория Алгоритмов/Семинары/ДЗ на 9-16.09.2014/ДЗ по практикуму от преподов (9 и 16 сентября 2014) .txt",
+		"/D/FPC/2.6.4/doc/fpc/readme.txt",
+		"/C/Users/German/SkyDrive/Frontier/2014.07.07/parse.strings",
+		"/C/Users/German/SkyDrive/Frontier/2014.07.07/ru_VideoStar_strings.strings",
+		"/C/Users/German/SkyDrive/Frontier/2014.07.07/ru_Starland_strings.strings",
+		"/C/Users/German/SkyDrive/Frontier/2014.07.07/misc_text.txt",
+		"/C/Users/German/SkyDrive/Frontier/2014.07.07/additional.strings",
+		"/C/Users/German/SkyDrive/Frontier/2014.07.07/additional.string",
+		"/D/vnikitskom/2_2.htm",
+		"/D/vnikitskom/assets/styles.css",
+		"/D/Program Files (x86)/Steam/steamapps/common/Rogue Legacy/Content/HeroNames.txt",
+		"/D/Program Files (x86)/Steam/steamapps/common/Rogue Legacy/Patch Note 1.2.0b.txt",
+		"/C/Users/German/AppData/Roaming/Sublime Text 2/Packages/User/sftp_servers/kalamburchik",
+		"/C/users/german/appdata/local/temp/sublime-sftp-browse-1401818765/kalamburchik/home/user/kalamburchik/app/styles/main.scss",
+		"/C/users/german/appdata/local/temp/sublime-sftp-browse-1401821700/kalamburchik/home/user/kalamburchik/app/views/partials/navbar.html",
+		"/C/users/german/appdata/local/temp/sublime-sftp-browse-1401820200/kalamburchik/home/user/kalamburchik/app/bower_components/bootstrap/dist/css/bootstrap.css",
+		"/C/users/german/appdata/local/temp/sublime-sftp-browse-1401822050/kalamburchik/home/user/kalamburchik/app/views/partials/login.html",
+		"/C/users/german/appdata/local/temp/sublime-sftp-browse-1401822068/kalamburchik/home/user/kalamburchik/app/views/partials/signup.html",
+		"/C/users/german/appdata/local/temp/sublime-sftp-browse-1401820166/kalamburchik/home/user/kalamburchik/app/views/index.html",
+		"/C/users/german/appdata/local/temp/sublime-sftp-browse-1401819473/kalamburchik/home/user/kalamburchik/app/views/partials/navbar.html",
+		"/C/users/german/appdata/local/temp/sublime-sftp-browse-1401819603/kalamburchik/home/user/kalamburchik/app/views/partials/user.html",
+		"/C/users/german/appdata/local/temp/sublime-sftp-browse-1401819441/kalamburchik/home/user/kalamburchik/app/views/partials/main.html",
+		"/C/users/german/appdata/local/temp/sublime-sftp-browse-1401819387/kalamburchik/home/user/kalamburchik/app/views/index.html",
+		"/C/users/german/appdata/local/temp/sublime-sftp-browse-1401818660/kalamburchik/home/user/kalamburchik/.sass-cache/ac992c49480d6e3bff488e3303b4031c8aff238f/main.scssc",
+		"/C/Users/German/AppData/Roaming/Sublime Text 2/Packages/User/sftp_servers/RulesByMe",
+		"/C/Users/German/Downloads/kalamburchik",
+		"/D/vnikitskom/index.htm",
+		"/D/vnikitskom/2_1.htm",
+		"/D/vnikitskom/2.htm",
+		"/C/Users/German/AppData/Local/Temp/scp00332/var/www/clients/client1/web4/web/wp-content/themes/expound/css/font-awesome.min.css",
+		"/C/Users/German/AppData/Local/Temp/Rar$DIa0.472/genericons.css",
+		"/C/Users/German/AppData/Local/Temp/scp50469/var/www/clients/client1/web4/web/wp-content/themes/expound/css/genericons.css",
+		"/D/vnikitskom/assets/bootstrap.min.css",
+		"/C/Users/German/Downloads/WhatsApp Chat_ Мама.txt",
+		"/D/Program Files/Dropbox/vnikitskom/site/assets/fonts.css",
+		"/C/Users/German/Downloads/source_05/typography_demo/index.html",
+		"/C/Users/German/Downloads/source_05/typography_demo/styles.css",
+		"/D/Program Files/Dropbox/vnikitskom/fwd/onlinefontconverter.com/README.txt",
+		"/D/Program Files/Dropbox/vnikitskom/site/index.htm",
+		"/D/Program Files/Dropbox/Дела/Письма/Frontier/2014.01.08/ru.strings",
+		"/D/Program Files/Dropbox/Дела/Письма/Frontier/2014.01.08/store.txt",
+		"/D/Program Files/Dropbox/Дела/Письма/Frontier/2013.11.29/ru.strings",
+		"/D/Program Files/Dropbox/Дела/Письма/Frontier/2013.10.18/translation.txt",
+		"/C/users/german/appdata/local/temp/sublime-sftp-browse-1381866696/RulesByMe/home/terbiy/rulesby/app/views/rule/show.blade.php",
+		"/C/users/german/appdata/local/temp/sublime-sftp-browse-1381866668/RulesByMe/home/terbiy/rulesby/app/views/author/index.blade.php",
+		"/C/users/german/appdata/local/temp/sublime-sftp-browse-1381950148/RulesByMe/home/terbiy/rulesby/public/css/styles.less",
+		"/C/users/german/appdata/local/temp/sublime-sftp-browse-1381867438/RulesByMe/home/terbiy/rulesby/app/views/layouts/header.blade.php",
+		"/C/users/german/appdata/local/temp/sublime-sftp-browse-1381864909/RulesByMe/home/terbiy/rulesby/app/views/rule/create.blade.php",
+		"/C/users/german/appdata/local/temp/sublime-sftp-browse-1381864820/RulesByMe/home/terbiy/rulesby/public/css/styles.less",
+		"/C/users/german/appdata/local/temp/sublime-sftp-browse-1381865261/RulesByMe/home/terbiy/rulesby/app/views/layouts/master.blade.php",
+		"/C/users/german/appdata/local/temp/sublime-sftp-browse-1381866638/RulesByMe/home/terbiy/rulesby/app/views/author/show.blade.php",
+		"/C/Users/German/AppData/Roaming/Sublime Text 2/Packages/User/SFTP.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			":=",
+			"tEl2",
+			"tEl1",
+			"el2",
+			"el1",
+			"el2",
+			"next",
+			"buf",
+			"numOfCom",
+			"^.date",
+			"rulers",
+			"i",
+			"K",
+			"<",
+			"numOfC",
+			"i",
+			" r",
+			"r",
+			" r",
+			"r",
+			"l",
+			" l",
+			"l",
+			"i",
+			"l",
+			"or",
+			"l",
+			"<",
+			"l",
+			"dates",
+			" +",
+			"year",
+			"checkFill",
+			"date",
+			"push",
+			"string",
+			"date",
+			"str",
+			"String",
+			"prev",
+			"next",
+			"pointer",
+			"Begin",
+			"Queue",
+			"pQueue",
+			"readCheckFill",
+			"test",
+			"and",
+			"+",
+			" l",
+			"l",
+			"exSumFormula",
+			"exLimFormula",
+			"reSumFormula",
+			"reLimFormula",
+			"re_1",
+			"200000000",
+			"(M)",
+			"m",
+			"M",
+			"Real",
+			"переменных",
+			"sumFormula",
+			"limFormula",
+			"sumFormula",
+			"reLimFormula",
+			"ext",
+			"ex",
+			"real",
+			"Real",
+			"real",
+			"Real",
+			"myReal",
+			"multRes",
+			"dotPos",
+			"addit",
+			"stroka",
+			"addit",
+			"err",
+			"power",
+			"dotPos",
+			"EPos",
+			"end",
+			"Writeln",
+			"commaPos",
+			"add",
+			"EPos",
+			"i",
+			"commaPos",
+			");\n",
+			"min",
+			"max",
+			"b",
+			"a",
+			"end",
+			"buffer",
+			"maximum",
+			"minimum",
+			"maximum",
+			"ostatok",
+			"maximum",
+			"minimum",
+			"maximum",
+			"procedure",
+			"maximum",
+			"encodin",
+			"Begin",
+			"end",
+			"re",
+			" re",
+			"re",
+			"error",
+			"mSizeVariable",
+			"mSize",
+			"squareMatrix",
+			"matrixSize",
+			"squareMatrix",
+			"To",
+			"setMatrix",
+			"\n  ",
+			"squareMatrix",
+			"A",
+			"size",
+			"el",
+			"33",
+			"i",
+			"symbolsType",
+			"End"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Неделя 1-2-3 Сортировка/testFile.txt",
+					"settings":
+					{
+						"buffer_size": 69,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Неделя 1-2-3 Сортировка/sort.pas",
+					"settings":
+					{
+						"buffer_size": 6785,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6625,
+								6625
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Pascal/Pascal.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 393.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Неделя 1-2-3 Сортировка/todo.todo",
+					"settings":
+					{
+						"buffer_size": 170,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								170,
+								170
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PlainTasks/PlainTasks.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"file",
+				"Неделя 1-2-3 Сортировка/testFile.txt"
+			],
+			[
+				"dates",
+				"Неделя 1-2-3 Сортировка/dates.txt"
+			],
+			[
+				"te",
+				"Неделя 1-2-3 Сортировка/testFile.txt"
+			],
+			[
+				"2",
+				"Неделя 1-2-3 Сортировка/sort.pas"
+			],
+			[
+				"3",
+				"Неделя 1-2-3 Сортировка/sort.pas"
+			],
+			[
+				"test",
+				"Неделя 1-2-3 Сортировка/testFile.txt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/D/prj/frontend-html-test/tutu.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
