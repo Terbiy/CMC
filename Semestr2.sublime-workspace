@@ -196,7 +196,23 @@
 	"buffers":
 	[
 		{
-			"file": "Неделя 1-2-3 Сортировка/testFile.txt",
+			"file": "Semestr2.sublime-project",
+			"settings":
+			{
+				"buffer_size": 197,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Week 1-2-3 Sort/todo.todo",
+			"settings":
+			{
+				"buffer_size": 170,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Week 1-2-3 Sort/testFile.txt",
 			"settings":
 			{
 				"buffer_size": 69,
@@ -204,18 +220,10 @@
 			}
 		},
 		{
-			"file": "Неделя 1-2-3 Сортировка/sort.pas",
+			"file": "Week 1-2-3 Sort/sort.pas",
 			"settings":
 			{
 				"buffer_size": 6785,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "Неделя 1-2-3 Сортировка/todo.todo",
-			"settings":
-			{
-				"buffer_size": 170,
 				"line_ending": "Windows"
 			}
 		}
@@ -356,13 +364,14 @@
 	},
 	"file_history":
 	[
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Неделя 1-2-3 Сортировка/todo.todo",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Неделя 1-2-3 Сортировка/testFile.txt",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Неделя 1-2-3 Сортировка/sort.pas",
 		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Semestr2.sublime-project",
 		"/C/Users/German/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 		"/C/Users/German/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
 		"/D/prj/frontend-html-test/README.md",
-		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Неделя 1-2-3 Сортировка/sort.pas",
 		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Неделя 1-2-3 Сортировка/dates.txt",
-		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Неделя 1-2-3 Сортировка/testFile.txt",
 		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Неделя 1-2-3 Сортировка/testDates.txt",
 		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/dates.txt",
 		"/D/Учёба/ВМК/Алгоритмы/Неделя 09 и 10/Control_2.pas",
@@ -614,12 +623,101 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 3,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "Неделя 1-2-3 Сортировка/testFile.txt",
+					"file": "Semestr2.sublime-project",
+					"settings":
+					{
+						"buffer_size": 197,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Week 1-2-3 Sort/todo.todo",
+					"settings":
+					{
+						"buffer_size": 170,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"incomplete_sync": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PlainTasks/PlainTasks.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Week 1-2-3 Sort/testFile.txt",
 					"settings":
 					{
 						"buffer_size": 69,
@@ -648,21 +746,9 @@
 								{
 									"characters": ".#",
 									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
 								}
 							],
-							"incomplete_sync": null,
+							"incomplete_sync": true,
 							"remote_loading": false,
 							"synced": false,
 							"syntax": "Packages/Text/Plain text.tmLanguage"
@@ -674,8 +760,8 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "Неделя 1-2-3 Сортировка/sort.pas",
+					"buffer": 3,
+					"file": "Week 1-2-3 Sort/sort.pas",
 					"settings":
 					{
 						"buffer_size": 6785,
@@ -685,8 +771,8 @@
 						"selection":
 						[
 							[
-								6625,
-								6625
+								0,
+								0
 							]
 						],
 						"settings":
@@ -695,18 +781,6 @@
 							[
 								{
 									"characters": "<",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
 									"selector": "text.html"
 								},
 								{
@@ -724,63 +798,6 @@
 							"syntax": "Packages/Pascal/Pascal.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 393.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "Неделя 1-2-3 Сортировка/todo.todo",
-					"settings":
-					{
-						"buffer_size": 170,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								170,
-								170
-							]
-						],
-						"settings":
-						{
-							"_anf_new": "",
-							"auto_complete_triggers":
-							[
-								{
-									"characters": "<",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								}
-							],
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/PlainTasks/PlainTasks.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -876,6 +893,10 @@
 		"height": 500.0,
 		"selected_items":
 		[
+			[
+				"tran",
+				"/C/Users/German/SkyDrive/Frontier/translation.sublime-project"
+			],
 			[
 				"",
 				"/D/prj/frontend-html-test/tutu.sublime-project"
