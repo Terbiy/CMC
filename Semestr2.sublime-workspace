@@ -4,6 +4,34 @@
 		"selected_items":
 		[
 			[
+				"qPon",
+				"qPointPos"
+			],
+			[
+				"qpo",
+				"qPointPos"
+			],
+			[
+				"el",
+				"el1"
+			],
+			[
+				"is",
+				"isEmpty"
+			],
+			[
+				"prin",
+				"printArray"
+			],
+			[
+				"correct",
+				"correctLine"
+			],
+			[
+				"strin",
+				"stringArray"
+			],
+			[
 				"nOs",
 				"nOS1"
 			],
@@ -20,10 +48,6 @@
 				"avNOC"
 			],
 			[
-				"prin",
-				"printStatistics"
-			],
-			[
 				"numo",
 				"numOfComparisons"
 			],
@@ -36,10 +60,6 @@
 				"stackLen"
 			],
 			[
-				"is",
-				"stackIsEmpty"
-			],
-			[
 				"y",
 				"yearM"
 			],
@@ -50,10 +70,6 @@
 			[
 				"day",
 				"dayN"
-			],
-			[
-				"strin",
-				"String"
 			],
 			[
 				"str",
@@ -272,34 +288,18 @@
 	"buffers":
 	[
 		{
+			"file": "Week 1-2-3 Sort/dates/datesCross_50.txt",
+			"settings":
+			{
+				"buffer_size": 440,
+				"line_ending": "Windows"
+			}
+		},
+		{
 			"file": "Week 1-2-3 Sort/sort_2.pas",
 			"settings":
 			{
-				"buffer_size": 9597,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "sort866.pas",
-			"settings":
-			{
-				"buffer_size": 9445,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "Week 1-2-3 Sort/randomDatesGenerator.pas",
-			"settings":
-			{
-				"buffer_size": 995,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "Week 1-2-3 Sort/filesGenerator.pas",
-			"settings":
-			{
-				"buffer_size": 416,
+				"buffer_size": 13951,
 				"line_ending": "Windows"
 			}
 		}
@@ -307,9 +307,25 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 392.0,
+		"height": 104.0,
 		"selected_items":
 		[
+			[
+				"all con",
+				"FindKeyConflicts: All Conflicts"
+			],
+			[
+				"conflic",
+				"FindKeyConflicts: Overlap Conflicts"
+			],
+			[
+				"bing",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"key ",
+				"FindKeyConflicts: All Conflicts"
+			],
 			[
 				"package",
 				"Package Control: Remove Package"
@@ -423,7 +439,7 @@
 				"SFTP: Edit Server…"
 			]
 		],
-		"width": 416.0
+		"width": 528.0
 	},
 	"console":
 	{
@@ -440,6 +456,15 @@
 	},
 	"file_history":
 	[
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 1-2-3 Sort/sort.pas",
+		"/C/Users/German/Downloads/untitled.pas",
+		"/C/Users/German/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/German/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/sort866.pas",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 1-2-3 Sort/dates/datesCross_30.txt",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 1-2-3 Sort/filesGenerator.pas",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 1-2-3 Sort/randomDatesGenerator.pas",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/README.md",
 		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 1-2-3 Sort/dates/randomDates_20.txt",
 		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 1-2-3 Sort/dates/randomDates_10.txt",
 		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 1-2-3 Sort/dates/randomDates2_20.txt",
@@ -464,13 +489,10 @@
 		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 1-2-3 Sort/dates/datesDown_50.txt",
 		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 1-2-3 Sort/dates/datesCross_40.txt",
 		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 1-2-3 Sort/dates/datesCross_50.txt",
-		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 1-2-3 Sort/dates/datesCross_30.txt",
 		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 1-2-3 Sort/randomDates2.txt",
-		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 1-2-3 Sort/filesGenerator.pas",
 		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 1-2-3 Sort/randomDates1.txt",
 		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/filesGenerator.pas",
 		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 1-2-3 Sort/dates.txt",
-		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 1-2-3 Sort/sort.pas",
 		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/datesDown.txt",
 		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/datesUP.txt",
 		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/datesCross.txt",
@@ -561,13 +583,7 @@
 		"/C/Users/German/Downloads/source_05/typography_demo/index.html",
 		"/C/Users/German/Downloads/source_05/typography_demo/styles.css",
 		"/D/Program Files/Dropbox/vnikitskom/fwd/onlinefontconverter.com/README.txt",
-		"/D/Program Files/Dropbox/vnikitskom/site/index.htm",
-		"/D/Program Files/Dropbox/Дела/Письма/Frontier/2014.01.08/ru.strings",
-		"/D/Program Files/Dropbox/Дела/Письма/Frontier/2014.01.08/store.txt",
-		"/D/Program Files/Dropbox/Дела/Письма/Frontier/2013.11.29/ru.strings",
-		"/D/Program Files/Dropbox/Дела/Письма/Frontier/2013.10.18/translation.txt",
-		"/C/users/german/appdata/local/temp/sublime-sftp-browse-1381866696/RulesByMe/home/terbiy/rulesby/app/views/rule/show.blade.php",
-		"/C/users/german/appdata/local/temp/sublime-sftp-browse-1381866668/RulesByMe/home/terbiy/rulesby/app/views/author/index.blade.php"
+		"/D/Program Files/Dropbox/vnikitskom/site/index.htm"
 	],
 	"find":
 	{
@@ -585,6 +601,35 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"qPush",
+			"merge",
+			"sort_9",
+			"qLen",
+			"pointer",
+			"p",
+			"isEmpty",
+			"ctrl+alt+down",
+			"ctrl+up",
+			"date",
+			"val",
+			"q",
+			"isEm",
+			"date",
+			"numOfSh",
+			"nOS3",
+			"printArray",
+			"printA",
+			"printArra",
+			"pritn",
+			"readCheckFill",
+			"checkLine",
+			"readCheckFill",
+			"checkFill",
+			"procedure",
+			"st",
+			"QS",
+			"printStatistics",
+			"merge",
 			"│",
 			"─",
 			"Readln",
@@ -683,36 +728,7 @@
 			"quicksort",
 			"MinInt",
 			"shift",
-			"MaxInt",
-			"testFile",
-			"writeln",
-			"printOut",
-			"312",
-			"printOut",
-			"312",
-			"3",
-			"new",
-			"qLen",
-			"var el1, el2",
-			"buf^ne",
-			"numOfComparisons",
-			"dateComparison",
-			"finish",
-			"writeln",
-			"qPartLen",
-			"qpartlen",
-			"qPartLen",
-			"1231",
-			"pointer",
-			"\n",
-			"месяц",
-			"отрезков",
-			"push",
-			"y",
-			":=",
-			"tEl2",
-			"tEl1",
-			"el2"
+			"MaxInt"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -724,38 +740,45 @@
 		"reverse": false,
 		"show_context": true,
 		"use_buffer2": true,
-		"whole_word": false,
+		"whole_word": true,
 		"wrap": true
 	},
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "Week 1-2-3 Sort/sort_2.pas",
+					"file": "Week 1-2-3 Sort/dates/datesCross_50.txt",
 					"settings":
 					{
-						"buffer_size": 9597,
+						"buffer_size": 440,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								9223,
-								9223
+								363,
+								363
 							]
 						],
 						"settings":
 						{
-							"_anf_new": "",
 							"auto_complete_triggers":
 							[
 								{
 									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
 									"selector": "text.html"
 								},
 								{
@@ -766,28 +789,28 @@
 							"incomplete_sync": null,
 							"remote_loading": false,
 							"synced": false,
-							"syntax": "Packages/Pascal/Pascal.tmLanguage"
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 5673.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "sort866.pas",
+					"file": "Week 1-2-3 Sort/sort_2.pas",
 					"settings":
 					{
-						"buffer_size": 9445,
+						"buffer_size": 13951,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								8518,
-								8518
+								11543,
+								11543
 							]
 						],
 						"settings":
@@ -797,6 +820,30 @@
 							[
 								{
 									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
 									"selector": "text.html"
 								},
 								{
@@ -812,90 +859,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 4950.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "Week 1-2-3 Sort/randomDatesGenerator.pas",
-					"settings":
-					{
-						"buffer_size": 995,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								759,
-								759
-							]
-						],
-						"settings":
-						{
-							"_anf_new": "",
-							"auto_complete_triggers":
-							[
-								{
-									"characters": "<",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								}
-							],
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Pascal/Pascal.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "Week 1-2-3 Sort/filesGenerator.pas",
-					"settings":
-					{
-						"buffer_size": 416,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"auto_complete_triggers":
-							[
-								{
-									"characters": "<",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								}
-							],
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Pascal/Pascal.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 6963.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -957,6 +921,10 @@
 		"selected_items":
 		[
 			[
+				"sort",
+				"Week 1-2-3 Sort/sort.pas"
+			],
+			[
 				"20",
 				"Week 1-2-3 Sort/dates/randomDates_20.txt"
 			],
@@ -987,10 +955,6 @@
 			[
 				"ra",
 				"Week 1-2-3 Sort/randomDates1.txt"
-			],
-			[
-				"sort",
-				"Week 1-2-3 Sort/sort.pas"
 			],
 			[
 				"date",
@@ -1025,16 +989,28 @@
 		"selected_items":
 		[
 			[
+				"artd",
+				"/D/Дела/Иван/artDealerQuiz/artDealerQuiz.sublime-project"
+			],
+			[
+				"qui",
+				"/D/Дела/Иван/artDealerQuiz/artDealerQuiz.sublime-project"
+			],
+			[
+				"yan",
+				"/C/Users/German/SkyDrive/Работа/Тестовое задание Яндекс/YandexTest.sublime-project"
+			],
+			[
+				"",
+				"/D/prj/frontend-html-test/tutu.sublime-project"
+			],
+			[
 				"TRAN",
 				"/C/Users/German/SkyDrive/Frontier/translation.sublime-project"
 			],
 			[
 				"tran",
 				"/C/Users/German/SkyDrive/Frontier/translation.sublime-project"
-			],
-			[
-				"",
-				"/D/prj/frontend-html-test/tutu.sublime-project"
 			]
 		],
 		"width": 380.0
