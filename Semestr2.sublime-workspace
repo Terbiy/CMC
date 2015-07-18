@@ -4,6 +4,26 @@
 		"selected_items":
 		[
 			[
+				"qLink",
+				"qLinkToPos"
+			],
+			[
+				"mer",
+				"mergeSortQueue"
+			],
+			[
+				"qLin",
+				"qLinkToPrev"
+			],
+			[
+				"qP",
+				"qPointPrev"
+			],
+			[
+				"merg",
+				"mergeSortArray"
+			],
+			[
 				"qPon",
 				"qPointPos"
 			],
@@ -288,28 +308,65 @@
 	"buffers":
 	[
 		{
-			"file": "Week 1-2-3 Sort/dates/datesCross_50.txt",
+			"file": "DosBoxMSU/RootC/MASM/IO.ASM",
 			"settings":
 			{
-				"buffer_size": 440,
+				"buffer_size": 6908,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "Week 1-2-3 Sort/sort_2.pas",
+			"file": "DosBoxMSU/RootC/MASMWORK/EX1.ASM",
 			"settings":
 			{
-				"buffer_size": 13951,
+				"buffer_size": 685,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "DosBoxMSU/RootC/MASMWORK/ASCHEM.ASM",
+			"settings":
+			{
+				"buffer_size": 415,
 				"line_ending": "Windows"
 			}
 		}
 	],
 	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
 	"command_palette":
 	{
-		"height": 104.0,
+		"height": 392.0,
+		"last_filter": "package",
 		"selected_items":
 		[
+			[
+				"package",
+				"Package Control: Disable Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"Upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
 			[
 				"all con",
 				"FindKeyConflicts: All Conflicts"
@@ -325,10 +382,6 @@
 			[
 				"key ",
 				"FindKeyConflicts: All Conflicts"
-			],
-			[
-				"package",
-				"Package Control: Remove Package"
 			],
 			[
 				"goto",
@@ -349,10 +402,6 @@
 			[
 				"pascal",
 				"Set Syntax: Pascal"
-			],
-			[
-				"insta",
-				"Package Control: Install Package"
 			],
 			[
 				"spaces",
@@ -439,11 +488,15 @@
 				"SFTP: Edit Server…"
 			]
 		],
-		"width": 528.0
+		"width": 400.0
 	},
 	"console":
 	{
-		"height": 125.0
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
 	},
 	"distraction_free":
 	{
@@ -454,9 +507,22 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/DosBoxMSU",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/DosBoxMSU/RootC",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/DosBoxMSU/RootC/MASM",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/DosBoxMSU/RootC/MASMWORK"
+	],
 	"file_history":
 	[
+		"/C/Users/German/Desktop/WQTerms.txt",
+		"/C/msiinv_output.txt",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 1-2-3 Sort/sort_2.pas",
 		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 1-2-3 Sort/sort.pas",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/finalSort.pas",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 1-2-3 Sort/dates/datesCross_50.txt",
 		"/C/Users/German/Downloads/untitled.pas",
 		"/C/Users/German/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
 		"/C/Users/German/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
@@ -488,7 +554,6 @@
 		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 1-2-3 Sort/dates/datesDown_30.txt",
 		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 1-2-3 Sort/dates/datesDown_50.txt",
 		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 1-2-3 Sort/dates/datesCross_40.txt",
-		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 1-2-3 Sort/dates/datesCross_50.txt",
 		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 1-2-3 Sort/randomDates2.txt",
 		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 1-2-3 Sort/randomDates1.txt",
 		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/filesGenerator.pas",
@@ -579,11 +644,7 @@
 		"/C/Users/German/AppData/Local/Temp/scp50469/var/www/clients/client1/web4/web/wp-content/themes/expound/css/genericons.css",
 		"/D/vnikitskom/assets/bootstrap.min.css",
 		"/C/Users/German/Downloads/WhatsApp Chat_ Мама.txt",
-		"/D/Program Files/Dropbox/vnikitskom/site/assets/fonts.css",
-		"/C/Users/German/Downloads/source_05/typography_demo/index.html",
-		"/C/Users/German/Downloads/source_05/typography_demo/styles.css",
-		"/D/Program Files/Dropbox/vnikitskom/fwd/onlinefontconverter.com/README.txt",
-		"/D/Program Files/Dropbox/vnikitskom/site/index.htm"
+		"/D/Program Files/Dropbox/vnikitskom/site/assets/fonts.css"
 	],
 	"find":
 	{
@@ -601,6 +662,69 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Prof",
+			"professorFirstName",
+			"ProfessorFirstName",
+			"Professor",
+			"mergesortarra",
+			"mergeSortArray",
+			"qDelete",
+			"qPrintOut",
+			"sortCountAndPrintMerge",
+			"fileToQueue",
+			"dates",
+			"merge",
+			"qLinkToPos",
+			"qPush(head",
+			"qPush",
+			"head",
+			"fileToQueue",
+			"printOut",
+			"fileToQueue",
+			"readCheckFillQueue",
+			"fileToArray",
+			"assign",
+			"readCheckFillQueue",
+			"readCheckFillArray",
+			"readCheckFill",
+			"q",
+			"print",
+			"len",
+			"k := l^.next;",
+			"Никогда",
+			"k := k +d;",
+			";\n",
+			"d",
+			"dec",
+			"inc",
+			"k := k + d;",
+			"qLinkToPos",
+			"qLinkToPrev",
+			"Point",
+			"qPointPos",
+			"valueTransfer",
+			"valueTra",
+			"el1",
+			"valueTransfer",
+			"qPointPrev",
+			"dateIsLater",
+			"qPush",
+			"quickSort",
+			"printLineQuick",
+			"printLine",
+			"Quick",
+			"sortCountAndPrint",
+			"quickSort",
+			"// arr[k]",
+			"// arr[",
+			"// arr",
+			"arr[",
+			"запущен",
+			"mergeSortArray",
+			"quicksort",
+			"mergeSortArray",
+			"i",
+			"f",
 			"qPush",
 			"merge",
 			"sort_9",
@@ -665,70 +789,7 @@
 			"43",
 			"4",
 			"1",
-			"printPartOfArray",
-			"writeln",
-			"Writeln",
-			"writeln",
-			"i",
-			". ",
-			"writeln",
-			"i",
-			"printpart",
-			"len",
-			"Writeln",
-			"writeln",
-			"numOfComparicons",
-			"q7",
-			"year",
-			"m",
-			"line",
-			"date",
-			"day",
-			"dayM",
-			"MinInt",
-			"day",
-			"s",
-			"arrayLen",
-			"unrefinedFile",
-			"pQu",
-			"writeln",
-			"52",
-			"numOfComparisons",
-			"dateIsLater",
-			"11",
-			"r",
-			"subarrays",
-			"subArrays",
-			"len",
-			"start",
-			"partPrintOut",
-			"q",
-			"длина обрабатываемого",
-			"qPartLen",
-			"stack",
-			"q",
-			"isEmpty",
-			"stackPop",
-			"p",
-			"dateIsLaterForI",
-			"dateIsLater",
-			"arg1",
-			"dateIsLater",
-			"writeln",
-			"K",
-			"dateIsLater",
-			"date, K",
-			"valueExchange",
-			"writeln",
-			"el",
-			"el1",
-			"exchange",
-			"bigger",
-			"dateComparison",
-			"quicksort",
-			"MinInt",
-			"shift",
-			"MaxInt"
+			"printPartOfArray"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -740,7 +801,7 @@
 		"reverse": false,
 		"show_context": true,
 		"use_buffer2": true,
-		"whole_word": true,
+		"whole_word": false,
 		"wrap": true
 	},
 	"groups":
@@ -751,117 +812,92 @@
 			[
 				{
 					"buffer": 0,
-					"file": "Week 1-2-3 Sort/dates/datesCross_50.txt",
+					"file": "DosBoxMSU/RootC/MASM/IO.ASM",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 440,
+						"buffer_size": 6908,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								363,
-								363
+								1188,
+								1188
 							]
 						],
 						"settings":
 						{
-							"auto_complete_triggers":
+							"encoding_helper_encoding": "CP1251",
+							"encoding_thread_running": true,
+							"syntax": "Packages/MasmAssembly/MasmAssembly.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 315.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "DosBoxMSU/RootC/MASMWORK/EX1.ASM",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 685,
+						"regions":
+						{
+						},
+						"selection":
+						[
 							[
-								{
-									"characters": "<",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								}
-							],
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+								685,
+								685
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "CP1251",
+							"encoding_thread_running": true,
+							"syntax": "Packages/MasmAssembly/MasmAssembly.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "Week 1-2-3 Sort/sort_2.pas",
+					"buffer": 2,
+					"file": "DosBoxMSU/RootC/MASMWORK/ASCHEM.ASM",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 13951,
+						"buffer_size": 415,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								11543,
-								11543
+								189,
+								189
 							]
 						],
 						"settings":
 						{
-							"_anf_new": "",
-							"auto_complete_triggers":
-							[
-								{
-									"characters": "<",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								}
-							],
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Pascal/Pascal.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/MasmAssembly/MasmAssembly.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 6963.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -906,10 +942,16 @@
 	{
 		"height": 0.0
 	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
 	"output.sftp":
 	{
 		"height": 100.0
 	},
+	"pinned_build_system": "",
+	"project": "Semestr2.sublime-project",
 	"replace":
 	{
 		"height": 62.0
@@ -918,6 +960,7 @@
 	"select_file":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 			[
@@ -986,6 +1029,7 @@
 	"select_project":
 	{
 		"height": 500.0,
+		"last_filter": "",
 		"selected_items":
 		[
 			[
@@ -1015,10 +1059,26 @@
 		],
 		"width": 380.0
 	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
 	"show_minimap": true,
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 150.0,
-	"status_bar_visible": true
+	"side_bar_width": 184.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
 }
