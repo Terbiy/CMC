@@ -9,8 +9,12 @@ S Ends
 
 D Segment
   res db 'Итог:$'
-  char db 100 dup (?)
-  cifra db '0'
+  wrong db 'Ошибка при вводе.$'
+  sameInt db 'Цифры в начале и конце строки совпадают.$'
+  char db 128 dup (?)
+  null db '0'
+  fInt db ?
+  sInt db ?
 D Ends
 
 Cd Segment ;Сегмент кода
@@ -45,7 +49,7 @@ cI:
   jne cI
 
 lE:
-  ; Вывод текста
+  ; Вывод строки
   lea dx, res
   outstr dx
   newline
@@ -53,28 +57,49 @@ lE:
   lea dx, char
   outstr dx
 
-  ; Определение наличия свойства текста
-  ; Текст начинается цифрой и заканчивается
+  ; Определение наличия свойства строки
+  ; Строка начинается цифрой и заканчивается
   ; цифрой, причём другой.
   mov al, char
-  sub al, cifra
+  sub al, null
   cmp al, 0
-  jg gZ
+  jg gZF
   jmp exit ; Разница меньше 0
-gZ:
+gZF:
   cmp al, 9
-  jl gotIt
+  jl fTrue
   jmp exit
 
-gotIt:
+  ; Первый символ оказался цифрой,
+  ; проверяем последний символ.
+fTrue:
+  mov fInt, al
+  dec bx
+  mov al, char[bx]
+  sub al, null
+  jg gZS
+  jmp exit
+gZS:
+  cmp al, 9
+  jl sTrue
+  jmp exit
 
+sTrue:
+  mov sInt, al
+  ; Сравнивать напрямую две ячейки памяти нельзя.
+  cmp fInt, al
+  je sameInts
+
+  ; Вывод оповещения о том, что цифры совпадают.
+sameInts:
+  newline
+  lea dx, sameInt
+  outstr dx
 
   jmp exit
 nI:
-  mov char, 'N'
-  mov bx, 1
-  mov char[bx], '$'
-  lea dx, char
+  newline
+  lea dx, wrong
   outstr dx
 
 exit:

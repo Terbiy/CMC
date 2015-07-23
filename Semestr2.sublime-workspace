@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"sam",
+				"sameInt"
+			],
+			[
+				"out",
+				"outword"
+			],
+			[
 				"qLink",
 				"qLinkToPos"
 			],
@@ -308,7 +316,7 @@
 	"buffers":
 	[
 		{
-			"file": "DosBoxMSU/RootC/MASM/IO.ASM",
+			"file": "DosBoxMSU/RootC/MASMWORK/IO.ASM",
 			"settings":
 			{
 				"buffer_size": 6908,
@@ -316,18 +324,26 @@
 			}
 		},
 		{
-			"file": "DosBoxMSU/RootC/MASMWORK/EX1.ASM",
+			"file": "DosBoxMSU/RootC/MASMWORK/EX3.ASM",
 			"settings":
 			{
-				"buffer_size": 685,
+				"buffer_size": 830,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "DosBoxMSU/RootC/MASMWORK/ASCHEM.ASM",
+			"file": "DosBoxMSU/RootC/MASMWORK/EX4.ASM",
 			"settings":
 			{
-				"buffer_size": 415,
+				"buffer_size": 802,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "DosBoxMSU/RootC/MASMWORK/TRY1.ASM",
+			"settings":
+			{
+				"buffer_size": 1756,
 				"line_ending": "Windows"
 			}
 		}
@@ -339,10 +355,14 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 392.0,
-		"last_filter": "package",
+		"height": 81.0,
+		"last_filter": "comme",
 		"selected_items":
 		[
+			[
+				"comme",
+				"Toggle Comment"
+			],
 			[
 				"package",
 				"Package Control: Disable Package"
@@ -513,10 +533,17 @@
 		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/DosBoxMSU",
 		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/DosBoxMSU/RootC",
 		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/DosBoxMSU/RootC/MASM",
-		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/DosBoxMSU/RootC/MASMWORK"
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/DosBoxMSU/RootC/MASMWORK",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 4-5-6 Integral"
 	],
 	"file_history":
 	[
+		"/C/Users/German/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/DosBoxMSU/RootC/MASMWORK/ASCHEM.ASM",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/DosBoxMSU/RootC/MASMWORK/EX1.ASM",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/DosBoxMSU/RootC/MASMWORK/EX2.ASM",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/DosBoxMSU/RootC/MASMWORK/EX3.ASM",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/DosBoxMSU/RootC/MASM/IO.ASM",
 		"/C/Users/German/Desktop/WQTerms.txt",
 		"/C/msiinv_output.txt",
 		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 1-2-3 Sort/sort_2.pas",
@@ -638,13 +665,7 @@
 		"/C/Users/German/Downloads/kalamburchik",
 		"/D/vnikitskom/index.htm",
 		"/D/vnikitskom/2_1.htm",
-		"/D/vnikitskom/2.htm",
-		"/C/Users/German/AppData/Local/Temp/scp00332/var/www/clients/client1/web4/web/wp-content/themes/expound/css/font-awesome.min.css",
-		"/C/Users/German/AppData/Local/Temp/Rar$DIa0.472/genericons.css",
-		"/C/Users/German/AppData/Local/Temp/scp50469/var/www/clients/client1/web4/web/wp-content/themes/expound/css/genericons.css",
-		"/D/vnikitskom/assets/bootstrap.min.css",
-		"/C/Users/German/Downloads/WhatsApp Chat_ Мама.txt",
-		"/D/Program Files/Dropbox/vnikitskom/site/assets/fonts.css"
+		"/D/vnikitskom/2.htm"
 	],
 	"find":
 	{
@@ -662,6 +683,33 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"sisame",
+			"mov",
+			"sameInt",
+			"outstr",
+			"sYsame",
+			"sameInts",
+			"same",
+			"wrong",
+			"текста",
+			"gZs",
+			"gZf",
+			"gZ",
+			"gotIt",
+			"cifra",
+			"dx",
+			"tst",
+			"tes",
+			"cifra",
+			"ax",
+			"asas",
+			"st",
+			"si",
+			"DW",
+			"Dat",
+			"Ba",
+			"S",
+			"start",
 			"Prof",
 			"professorFirstName",
 			"ProfessorFirstName",
@@ -762,34 +810,7 @@
 			", TRUE",
 			"average",
 			"nOS",
-			"nOS1",
-			"30",
-			"datesUp_30",
-			"20",
-			"10",
-			"sortCountAndPrint",
-			"40",
-			"randomDates_40",
-			"rewrite",
-			"50",
-			"sortCountAndPrint",
-			"TRUE",
-			"sortCountAndPrint",
-			"sortCountAndPrintComp",
-			"sortCountAndPrint",
-			"high",
-			"fileName",
-			"mod",
-			"sDay",
-			"MaxInt",
-			"writeln",
-			"string",
-			"3",
-			"4",
-			"43",
-			"4",
-			"1",
-			"printPartOfArray"
+			"nOS1"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -807,36 +828,59 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 3,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "DosBoxMSU/RootC/MASM/IO.ASM",
+					"file": "DosBoxMSU/RootC/MASMWORK/IO.ASM",
 					"semi_transient": false,
 					"settings":
 					{
 						"buffer_size": 6908,
 						"regions":
 						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "bookmark",
+								"regions":
+								[
+									[
+										1277,
+										1277
+									],
+									[
+										1680,
+										1680
+									],
+									[
+										2551,
+										2551
+									],
+									[
+										5339,
+										5339
+									]
+								],
+								"scope": "bookmarks"
+							}
 						},
 						"selection":
 						[
 							[
-								1188,
-								1188
+								2698,
+								2698
 							]
 						],
 						"settings":
 						{
-							"encoding_helper_encoding": "CP1251",
-							"encoding_thread_running": true,
 							"syntax": "Packages/MasmAssembly/MasmAssembly.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 315.0,
+						"translation.y": 820.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -844,49 +888,49 @@
 				},
 				{
 					"buffer": 1,
-					"file": "DosBoxMSU/RootC/MASMWORK/EX1.ASM",
+					"file": "DosBoxMSU/RootC/MASMWORK/EX3.ASM",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 685,
+						"buffer_size": 830,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								685,
-								685
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"encoding_helper_encoding": "CP1251",
-							"encoding_thread_running": true,
-							"syntax": "Packages/MasmAssembly/MasmAssembly.tmLanguage"
+							"syntax": "Packages/MasmAssembly/MasmAssembly.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "DosBoxMSU/RootC/MASMWORK/ASCHEM.ASM",
+					"file": "DosBoxMSU/RootC/MASMWORK/EX4.ASM",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 415,
+						"buffer_size": 802,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								189,
-								189
+								467,
+								467
 							]
 						],
 						"settings":
@@ -898,6 +942,47 @@
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "DosBoxMSU/RootC/MASMWORK/TRY1.ASM",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1756,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "bookmark",
+								"regions":
+								[
+									[
+										1526,
+										1526
+									]
+								],
+								"scope": "bookmarks"
+							}
+						},
+						"selection":
+						[
+							[
+								1517,
+								1517
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MasmAssembly/MasmAssembly.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 815.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
