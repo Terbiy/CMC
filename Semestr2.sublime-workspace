@@ -1,0 +1,1169 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sam",
+				"sameInt"
+			],
+			[
+				"out",
+				"outword"
+			],
+			[
+				"qLink",
+				"qLinkToPos"
+			],
+			[
+				"mer",
+				"mergeSortQueue"
+			],
+			[
+				"qLin",
+				"qLinkToPrev"
+			],
+			[
+				"qP",
+				"qPointPrev"
+			],
+			[
+				"merg",
+				"mergeSortArray"
+			],
+			[
+				"qPon",
+				"qPointPos"
+			],
+			[
+				"qpo",
+				"qPointPos"
+			],
+			[
+				"el",
+				"el1"
+			],
+			[
+				"is",
+				"isEmpty"
+			],
+			[
+				"prin",
+				"printArray"
+			],
+			[
+				"correct",
+				"correctLine"
+			],
+			[
+				"strin",
+				"stringArray"
+			],
+			[
+				"nOs",
+				"nOS1"
+			],
+			[
+				"sting",
+				"String"
+			],
+			[
+				"num",
+				"numOfComparisons"
+			],
+			[
+				"av",
+				"avNOC"
+			],
+			[
+				"numo",
+				"numOfComparisons"
+			],
+			[
+				"rand",
+				"randomDate"
+			],
+			[
+				"len",
+				"stackLen"
+			],
+			[
+				"y",
+				"yearM"
+			],
+			[
+				"mon",
+				"monthM"
+			],
+			[
+				"day",
+				"dayN"
+			],
+			[
+				"str",
+				"stringArray"
+			],
+			[
+				"shif",
+				"shiftsAdded"
+			],
+			[
+				"prev",
+				"prevShifts"
+			],
+			[
+				"q",
+				"q"
+			],
+			[
+				"pin",
+				"printOut"
+			],
+			[
+				"push",
+				"stackPush"
+			],
+			[
+				"s",
+				"s"
+			],
+			[
+				"nu",
+				"numOfComparisons"
+			],
+			[
+				"then",
+				"then"
+			],
+			[
+				"bi",
+				"begin	compound statement"
+			],
+			[
+				"begin",
+				"begin	compound statement"
+			],
+			[
+				"tEl",
+				"tEl1"
+			],
+			[
+				"beg",
+				"begin	compound statement"
+			],
+			[
+				"b",
+				"begin	compound statement"
+			],
+			[
+				"date",
+				"dateComparison"
+			],
+			[
+				"daY",
+				"dateYMD"
+			],
+			[
+				"OR",
+				"OR"
+			],
+			[
+				"write",
+				"Writeln"
+			],
+			[
+				"test",
+				"testFile"
+			],
+			[
+				"read",
+				"readln"
+			],
+			[
+				"end",
+				"End"
+			],
+			[
+				"un",
+				"unrefinedFile"
+			],
+			[
+				"ex_",
+				"ex_1"
+			],
+			[
+				"ex",
+				"expresNum"
+			],
+			[
+				"in",
+				"inc"
+			],
+			[
+				"st",
+				"stroka"
+			],
+			[
+				"sim",
+				"simplification"
+			],
+			[
+				"re",
+				"re"
+			],
+			[
+				"inte",
+				"Integer"
+			],
+			[
+				"mSizeV",
+				"mSizeVariable"
+			],
+			[
+				"mS",
+				"mSizeVariable"
+			],
+			[
+				"matr",
+				"matrixSize"
+			],
+			[
+				"mat",
+				"matrixToModify"
+			],
+			[
+				"matri",
+				"matrixToModify"
+			],
+			[
+				"m",
+				"mSize"
+			],
+			[
+				"set",
+				"setMatrix"
+			],
+			[
+				"min",
+				"minPosition"
+			],
+			[
+				"sym",
+				"symbolsType"
+			],
+			[
+				"Write",
+				"Writeln"
+			],
+			[
+				"Writ",
+				"Writeln"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"conta",
+				"contacts"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"conl",
+				"contactsLenght"
+			],
+			[
+				"p",
+				"phoneNumber"
+			],
+			[
+				"col-",
+				"col-md-8"
+			],
+			[
+				"car",
+				"carousel-control"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"fon",
+				"font-family"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "DosBoxMSU/RootC/MASMWORK/IO.ASM",
+			"settings":
+			{
+				"buffer_size": 6908,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "DosBoxMSU/RootC/MASMWORK/EX3.ASM",
+			"settings":
+			{
+				"buffer_size": 830,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "DosBoxMSU/RootC/MASMWORK/EX4.ASM",
+			"settings":
+			{
+				"buffer_size": 802,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "DosBoxMSU/RootC/MASMWORK/TRY1.ASM",
+			"settings":
+			{
+				"buffer_size": 1756,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"last_filter": "comme",
+		"selected_items":
+		[
+			[
+				"comme",
+				"Toggle Comment"
+			],
+			[
+				"package",
+				"Package Control: Disable Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"Upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"all con",
+				"FindKeyConflicts: All Conflicts"
+			],
+			[
+				"conflic",
+				"FindKeyConflicts: Overlap Conflicts"
+			],
+			[
+				"bing",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"key ",
+				"FindKeyConflicts: All Conflicts"
+			],
+			[
+				"goto",
+				"SublimeBookmarks: Goto Bookmark"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"BLOCK",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"pascal",
+				"Set Syntax: Pascal"
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"comm",
+				"Toggle Block Comment"
+			],
+			[
+				"BLOC",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"pas",
+				"Set Syntax: Pascal"
+			],
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"LOWER",
+				"Convert Case: Lower Case"
+			],
+			[
+				"pasca",
+				"Set Syntax: Pascal"
+			],
+			[
+				"jsc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"js",
+				"JSHint"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"brs",
+				"SFTP: Browse Server…"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"sf",
+				"SFTP: Edit Server…"
+			],
+			[
+				"sft",
+				"SFTP: Edit Server…"
+			],
+			[
+				"s",
+				"SFTP: Edit Server…"
+			],
+			[
+				"sftp ",
+				"SFTP: Browse Server…"
+			],
+			[
+				"block",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"bloc",
+				"Toggle Block Comment"
+			],
+			[
+				"edit",
+				"SFTP: Edit Server…"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/DosBoxMSU",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/DosBoxMSU/RootC",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/DosBoxMSU/RootC/MASM",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/DosBoxMSU/RootC/MASMWORK",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 4-5-6 Integral"
+	],
+	"file_history":
+	[
+		"/C/Users/German/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/DosBoxMSU/RootC/MASMWORK/ASCHEM.ASM",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/DosBoxMSU/RootC/MASMWORK/EX1.ASM",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/DosBoxMSU/RootC/MASMWORK/EX2.ASM",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/DosBoxMSU/RootC/MASMWORK/EX3.ASM",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/DosBoxMSU/RootC/MASM/IO.ASM",
+		"/C/Users/German/Desktop/WQTerms.txt",
+		"/C/msiinv_output.txt",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 1-2-3 Sort/sort_2.pas",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 1-2-3 Sort/sort.pas",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/finalSort.pas",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 1-2-3 Sort/dates/datesCross_50.txt",
+		"/C/Users/German/Downloads/untitled.pas",
+		"/C/Users/German/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/German/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/sort866.pas",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 1-2-3 Sort/dates/datesCross_30.txt",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 1-2-3 Sort/filesGenerator.pas",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 1-2-3 Sort/randomDatesGenerator.pas",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/README.md",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 1-2-3 Sort/dates/randomDates_20.txt",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 1-2-3 Sort/dates/randomDates_10.txt",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 1-2-3 Sort/dates/randomDates2_20.txt",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 1-2-3 Sort/dates/randomDates2_10.txt",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 1-2-3 Sort/dates/datesUP_20.txt",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 1-2-3 Sort/dates/datesUP_10.txt",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 1-2-3 Sort/dates/datesDown_10.txt",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 1-2-3 Sort/dates/datesDown_20.txt",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 1-2-3 Sort/dates/datesCross_20.txt",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 1-2-3 Sort/dates/datesCross_10.txt",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 1-2-3 Sort/dates/randomDates_40.txt",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 1-2-3 Sort/dates/randomDates_30.txt",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 1-2-3 Sort/dates/randomDates_50.txt",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 1-2-3 Sort/dates/randomDates2_40.txt",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 1-2-3 Sort/dates/randomDates2_30.txt",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 1-2-3 Sort/dates/randomDates2_50.txt",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 1-2-3 Sort/dates/datesUP_50.txt",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 1-2-3 Sort/dates/datesUP_40.txt",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 1-2-3 Sort/dates/datesUP_30.txt",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 1-2-3 Sort/dates/datesDown_40.txt",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 1-2-3 Sort/dates/datesDown_30.txt",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 1-2-3 Sort/dates/datesDown_50.txt",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 1-2-3 Sort/dates/datesCross_40.txt",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 1-2-3 Sort/randomDates2.txt",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 1-2-3 Sort/randomDates1.txt",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/filesGenerator.pas",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 1-2-3 Sort/dates.txt",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/datesDown.txt",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/datesUP.txt",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/datesCross.txt",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Semestr2.sublime-project",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 1-2-3 Sort/testFile.txt",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 1-2-3 Sort/todo.todo",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 1-2-3 Sort/t1.pas",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Week 1-2-3 Sort/t.pas",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Неделя 1-2-3 Сортировка/todo.todo",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Неделя 1-2-3 Сортировка/testFile.txt",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Неделя 1-2-3 Сортировка/sort.pas",
+		"/C/Users/German/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/German/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/D/prj/frontend-html-test/README.md",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Неделя 1-2-3 Сортировка/dates.txt",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/Неделя 1-2-3 Сортировка/testDates.txt",
+		"/D/Учёба/ВМК/Алгоритмы/Семестр 2/dates.txt",
+		"/D/Учёба/ВМК/Алгоритмы/Неделя 09 и 10/Control_2.pas",
+		"/D/Учёба/ВМК/Алгоритмы/Неделя 09 и 10/week9_10.sublime-project",
+		"/C/Users/German/SkyDrive/Frontier/2015.02.16/ru.strings",
+		"/D/Учёба/ВМК/Алгоритмы/Неделя 09 и 10/Control_1.pas",
+		"/D/Учёба/ВМК/Алгоритмы/Неделя 06/Kontrol.pas",
+		"/D/Учёба/ВМК/Алгоритмы/Неделя 15/15.pas",
+		"/C/Users/German/Downloads/ru.strings",
+		"/C/Users/German/SkyDrive/Дела/Боккаччо/Website/robots.txt",
+		"/D/Учёба/ВМК/Алгоритмы/Неделя 9 и 10/Control_2.pas",
+		"/D/Учёба/ВМК/Алгоритмы/Неделя 9 и 10/11_d.pas",
+		"/D/Учёба/ВМК/Алгоритмы/Неделя 9 и 10/11_c.pas",
+		"/D/Учёба/ВМК/Алгоритмы/Неделя 9 и 10/Control_1.pas",
+		"/D/Учёба/ВМК/Алгоритмы/Неделя 9 и 10/11_b.pas",
+		"/D/Учёба/ВМК/Алгоритмы/Неделя 9 и 10/11_a.pas",
+		"/D/Учёба/ВМК/Алгоритмы/Неделя 9 и 10/numToStroke.pas",
+		"/D/Учёба/ВМК/Алгоритмы/Неделя 9 и 10/lineModifier2.pas",
+		"/D/Учёба/ВМК/Алгоритмы/Неделя 8/massiveMultiplication.pas",
+		"/D/Учёба/ВМК/Алгоритмы/Неделя 9 и 10/power.pas",
+		"/D/Учёба/ВМК/Алгоритмы/Неделя 9 и 10/simpleFraction.pas",
+		"/D/Учёба/ВМК/Алгоритмы/Неделя 9 и 10/week9_10.sublime-project",
+		"/D/Учёба/ВМК/Алгоритмы/Неделя 9 и 10/heyApple.pas",
+		"/C/Users/German/Downloads/11.c.pas",
+		"/C/Users/German/Downloads/11_c.pas",
+		"/D/Учёба/ВМК/Алгоритмы/Неделя 9 и 10/minDiagonal.pas",
+		"/D/Учёба/ВМК/Алгоритмы/Неделя 8/lineModifier.pas",
+		"/D/Учёба/ВМК/Алгоритмы/Неделя 8/week8.sublime-project",
+		"/D/Музыка/Гражданин Топинамбур/readme_ru.txt",
+		"/D/Учёба/ВМК/Алгоритмы/Неделя 7/Решение Саши/9_2.pas",
+		"/C/Users/German/Desktop/123.txt",
+		"/D/Книги/Введение в язык Pascal_Абрамов/1_2011/furyjydy.dll",
+		"/C/Users/German/AppData/Local/Temp/txt11A0.txt",
+		"/C/Users/German/SkyDrive/Frontier/2014.10.09/new.txt",
+		"/C/Users/German/SkyDrive/Frontier/2014.10.09/ru.strings",
+		"/C/Users/German/Downloads/Goulston_M._Ya_Slyishu_Vas_Naskvoz_Ye.txt",
+		"/D/Program Files/Dropbox/вмк вво 2014-2017/Чат))).txt",
+		"/D/Program Files/Dropbox/вмк вво 2014-2017/1-й Семестр/Теория Алгоритмов/Семинары/ДЗ на 9-16.09.2014/ДЗ по практикуму от преподов (9 и 16 сентября 2014) .txt",
+		"/D/FPC/2.6.4/doc/fpc/readme.txt",
+		"/C/Users/German/SkyDrive/Frontier/2014.07.07/parse.strings",
+		"/C/Users/German/SkyDrive/Frontier/2014.07.07/ru_VideoStar_strings.strings",
+		"/C/Users/German/SkyDrive/Frontier/2014.07.07/ru_Starland_strings.strings",
+		"/C/Users/German/SkyDrive/Frontier/2014.07.07/misc_text.txt",
+		"/C/Users/German/SkyDrive/Frontier/2014.07.07/additional.strings",
+		"/C/Users/German/SkyDrive/Frontier/2014.07.07/additional.string",
+		"/D/vnikitskom/2_2.htm",
+		"/D/vnikitskom/assets/styles.css",
+		"/D/Program Files (x86)/Steam/steamapps/common/Rogue Legacy/Content/HeroNames.txt",
+		"/D/Program Files (x86)/Steam/steamapps/common/Rogue Legacy/Patch Note 1.2.0b.txt",
+		"/C/Users/German/AppData/Roaming/Sublime Text 2/Packages/User/sftp_servers/kalamburchik",
+		"/C/users/german/appdata/local/temp/sublime-sftp-browse-1401818765/kalamburchik/home/user/kalamburchik/app/styles/main.scss",
+		"/C/users/german/appdata/local/temp/sublime-sftp-browse-1401821700/kalamburchik/home/user/kalamburchik/app/views/partials/navbar.html",
+		"/C/users/german/appdata/local/temp/sublime-sftp-browse-1401820200/kalamburchik/home/user/kalamburchik/app/bower_components/bootstrap/dist/css/bootstrap.css",
+		"/C/users/german/appdata/local/temp/sublime-sftp-browse-1401822050/kalamburchik/home/user/kalamburchik/app/views/partials/login.html",
+		"/C/users/german/appdata/local/temp/sublime-sftp-browse-1401822068/kalamburchik/home/user/kalamburchik/app/views/partials/signup.html",
+		"/C/users/german/appdata/local/temp/sublime-sftp-browse-1401820166/kalamburchik/home/user/kalamburchik/app/views/index.html",
+		"/C/users/german/appdata/local/temp/sublime-sftp-browse-1401819473/kalamburchik/home/user/kalamburchik/app/views/partials/navbar.html",
+		"/C/users/german/appdata/local/temp/sublime-sftp-browse-1401819603/kalamburchik/home/user/kalamburchik/app/views/partials/user.html",
+		"/C/users/german/appdata/local/temp/sublime-sftp-browse-1401819441/kalamburchik/home/user/kalamburchik/app/views/partials/main.html",
+		"/C/users/german/appdata/local/temp/sublime-sftp-browse-1401819387/kalamburchik/home/user/kalamburchik/app/views/index.html",
+		"/C/users/german/appdata/local/temp/sublime-sftp-browse-1401818660/kalamburchik/home/user/kalamburchik/.sass-cache/ac992c49480d6e3bff488e3303b4031c8aff238f/main.scssc",
+		"/C/Users/German/AppData/Roaming/Sublime Text 2/Packages/User/sftp_servers/RulesByMe",
+		"/C/Users/German/Downloads/kalamburchik",
+		"/D/vnikitskom/index.htm",
+		"/D/vnikitskom/2_1.htm",
+		"/D/vnikitskom/2.htm"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"sisame",
+			"mov",
+			"sameInt",
+			"outstr",
+			"sYsame",
+			"sameInts",
+			"same",
+			"wrong",
+			"текста",
+			"gZs",
+			"gZf",
+			"gZ",
+			"gotIt",
+			"cifra",
+			"dx",
+			"tst",
+			"tes",
+			"cifra",
+			"ax",
+			"asas",
+			"st",
+			"si",
+			"DW",
+			"Dat",
+			"Ba",
+			"S",
+			"start",
+			"Prof",
+			"professorFirstName",
+			"ProfessorFirstName",
+			"Professor",
+			"mergesortarra",
+			"mergeSortArray",
+			"qDelete",
+			"qPrintOut",
+			"sortCountAndPrintMerge",
+			"fileToQueue",
+			"dates",
+			"merge",
+			"qLinkToPos",
+			"qPush(head",
+			"qPush",
+			"head",
+			"fileToQueue",
+			"printOut",
+			"fileToQueue",
+			"readCheckFillQueue",
+			"fileToArray",
+			"assign",
+			"readCheckFillQueue",
+			"readCheckFillArray",
+			"readCheckFill",
+			"q",
+			"print",
+			"len",
+			"k := l^.next;",
+			"Никогда",
+			"k := k +d;",
+			";\n",
+			"d",
+			"dec",
+			"inc",
+			"k := k + d;",
+			"qLinkToPos",
+			"qLinkToPrev",
+			"Point",
+			"qPointPos",
+			"valueTransfer",
+			"valueTra",
+			"el1",
+			"valueTransfer",
+			"qPointPrev",
+			"dateIsLater",
+			"qPush",
+			"quickSort",
+			"printLineQuick",
+			"printLine",
+			"Quick",
+			"sortCountAndPrint",
+			"quickSort",
+			"// arr[k]",
+			"// arr[",
+			"// arr",
+			"arr[",
+			"запущен",
+			"mergeSortArray",
+			"quicksort",
+			"mergeSortArray",
+			"i",
+			"f",
+			"qPush",
+			"merge",
+			"sort_9",
+			"qLen",
+			"pointer",
+			"p",
+			"isEmpty",
+			"ctrl+alt+down",
+			"ctrl+up",
+			"date",
+			"val",
+			"q",
+			"isEm",
+			"date",
+			"numOfSh",
+			"nOS3",
+			"printArray",
+			"printA",
+			"printArra",
+			"pritn",
+			"readCheckFill",
+			"checkLine",
+			"readCheckFill",
+			"checkFill",
+			"procedure",
+			"st",
+			"QS",
+			"printStatistics",
+			"merge",
+			"│",
+			"─",
+			"Readln",
+			"num",
+			"sortCountAndPrint",
+			", TRUE",
+			"average",
+			"nOS",
+			"nOS1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "DosBoxMSU/RootC/MASMWORK/IO.ASM",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6908,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "bookmark",
+								"regions":
+								[
+									[
+										1277,
+										1277
+									],
+									[
+										1680,
+										1680
+									],
+									[
+										2551,
+										2551
+									],
+									[
+										5339,
+										5339
+									]
+								],
+								"scope": "bookmarks"
+							}
+						},
+						"selection":
+						[
+							[
+								2698,
+								2698
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MasmAssembly/MasmAssembly.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 820.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "DosBoxMSU/RootC/MASMWORK/EX3.ASM",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 830,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MasmAssembly/MasmAssembly.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "DosBoxMSU/RootC/MASMWORK/EX4.ASM",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 802,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								467,
+								467
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MasmAssembly/MasmAssembly.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "DosBoxMSU/RootC/MASMWORK/TRY1.ASM",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1756,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "bookmark",
+								"regions":
+								[
+									[
+										1526,
+										1526
+									]
+								],
+								"scope": "bookmarks"
+							}
+						},
+						"selection":
+						[
+							[
+								1517,
+								1517
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MasmAssembly/MasmAssembly.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 815.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "Semestr2.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sort",
+				"Week 1-2-3 Sort/sort.pas"
+			],
+			[
+				"20",
+				"Week 1-2-3 Sort/dates/randomDates_20.txt"
+			],
+			[
+				"10",
+				"Week 1-2-3 Sort/dates/randomDates_10.txt"
+			],
+			[
+				"30",
+				"Week 1-2-3 Sort/dates/randomDates_30.txt"
+			],
+			[
+				"40",
+				"Week 1-2-3 Sort/dates/randomDates_40.txt"
+			],
+			[
+				"50",
+				"Week 1-2-3 Sort/dates/randomDates_50.txt"
+			],
+			[
+				"dates",
+				"Week 1-2-3 Sort/dates/datesCross_50.txt"
+			],
+			[
+				"rano",
+				"Week 1-2-3 Sort/randomDates2.txt"
+			],
+			[
+				"ra",
+				"Week 1-2-3 Sort/randomDates1.txt"
+			],
+			[
+				"date",
+				"Week 1-2-3 Sort/dates.txt"
+			],
+			[
+				"file",
+				"Неделя 1-2-3 Сортировка/testFile.txt"
+			],
+			[
+				"te",
+				"Неделя 1-2-3 Сортировка/testFile.txt"
+			],
+			[
+				"2",
+				"Неделя 1-2-3 Сортировка/sort.pas"
+			],
+			[
+				"3",
+				"Неделя 1-2-3 Сортировка/sort.pas"
+			],
+			[
+				"test",
+				"Неделя 1-2-3 Сортировка/testFile.txt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"artd",
+				"/D/Дела/Иван/artDealerQuiz/artDealerQuiz.sublime-project"
+			],
+			[
+				"qui",
+				"/D/Дела/Иван/artDealerQuiz/artDealerQuiz.sublime-project"
+			],
+			[
+				"yan",
+				"/C/Users/German/SkyDrive/Работа/Тестовое задание Яндекс/YandexTest.sublime-project"
+			],
+			[
+				"",
+				"/D/prj/frontend-html-test/tutu.sublime-project"
+			],
+			[
+				"TRAN",
+				"/C/Users/German/SkyDrive/Frontier/translation.sublime-project"
+			],
+			[
+				"tran",
+				"/C/Users/German/SkyDrive/Frontier/translation.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 184.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
